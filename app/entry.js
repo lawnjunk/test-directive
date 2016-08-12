@@ -14,3 +14,4 @@ angular.module('demoApp', []);
 
 // angular components
 require('./component/main');
+require('./component/gallery-item');
